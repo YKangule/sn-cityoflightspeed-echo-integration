@@ -100,7 +100,7 @@ EchoLog.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-13 22:19:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b248b2a8db61f600d1a9f1351d9619bb</sys_id>
         <sys_mod_count>32</sys_mod_count>
         <sys_name>EchoLog</sys_name>

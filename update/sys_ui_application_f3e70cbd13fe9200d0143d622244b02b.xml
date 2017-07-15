@@ -9,7 +9,7 @@
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-15 17:37:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f3e70cbd13fe9200d0143d622244b02b</sys_id>

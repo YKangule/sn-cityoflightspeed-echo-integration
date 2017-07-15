@@ -14,7 +14,7 @@
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-16 22:41:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b94ad625db2d3a00d1a9f1351d96199b</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Home - Container 1</sys_name>
@@ -31,7 +31,6 @@
         <average_image_color>#13181e</average_image_color>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>background_image</file_name>
         <image_height>629</image_height>
         <image_width>1440</image_width>

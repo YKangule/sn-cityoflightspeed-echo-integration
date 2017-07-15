@@ -22,7 +22,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-05-13 01:49:13</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7ec72440db72f60015f2de01ce9619af</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Hear Changes</sys_name>

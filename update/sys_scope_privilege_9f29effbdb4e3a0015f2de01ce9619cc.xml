@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-04-18 00:44:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9f29effbdb4e3a0015f2de01ce9619cc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>cost_plan_breakdown</sys_name>

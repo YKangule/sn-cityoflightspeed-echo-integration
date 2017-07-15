@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_portal_page" unload_date="2017-05-15 21:19:00">
+<record_update node_type="sys_portal_page" unload_date="2017-07-15 13:07:47">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -9,7 +9,7 @@
         <sys_class_name>sys_portal_page</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-27 18:50:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2cdbcea513879600d0143d622244b035</sys_id>

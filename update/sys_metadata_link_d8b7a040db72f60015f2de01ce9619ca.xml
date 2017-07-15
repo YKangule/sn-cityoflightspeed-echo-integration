@@ -22,7 +22,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-05-13 01:48:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d8b7a040db72f60015f2de01ce9619ca</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Cancel</sys_name>

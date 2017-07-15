@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>jc</sys_created_by>
             <sys_created_on>2017-03-05 23:30:01</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>60db71c2dbd9b200d1a9f1351d96199e</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>Slot type</sys_name>

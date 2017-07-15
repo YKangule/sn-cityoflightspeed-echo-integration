@@ -37,7 +37,7 @@
         <sys_class_name>sys_ws_operation</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-15 22:28:16</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>507a897d1332d200d0143d622244b028</sys_id>
         <sys_mod_count>94</sys_mod_count>
         <sys_name>post</sys_name>

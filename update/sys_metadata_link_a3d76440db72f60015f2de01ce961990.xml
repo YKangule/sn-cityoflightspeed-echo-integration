@@ -22,7 +22,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-05-13 01:49:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a3d76440db72f60015f2de01ce961990</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Are there any service interruptions?</sys_name>

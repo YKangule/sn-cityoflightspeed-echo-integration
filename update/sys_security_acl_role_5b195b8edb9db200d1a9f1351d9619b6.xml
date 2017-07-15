@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-06 06:17:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5b195b8edb9db200d1a9f1351d9619b6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_amazon_echo_session.x_snc_amazon_echo.session_user</sys_name>

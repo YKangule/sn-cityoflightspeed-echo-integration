@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-15 17:37:05</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>08f70cbd13fe9200d0143d622244b02c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_amazon_echo_utterance</sys_name>

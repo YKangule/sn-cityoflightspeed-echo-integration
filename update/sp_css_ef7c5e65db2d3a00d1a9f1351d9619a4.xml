@@ -202,7 +202,7 @@
         <sys_class_name>sp_css</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-16 22:51:35</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ef7c5e65db2d3a00d1a9f1351d9619a4</sys_id>
         <sys_mod_count>55</sys_mod_count>
         <sys_name>echo-showcase</sys_name>

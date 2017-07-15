@@ -14,7 +14,7 @@
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-17 06:13:32</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>36a144fddbed3a00d1a9f1351d96199b</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Home - Container 2</sys_name>

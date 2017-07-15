@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-28 01:36:55</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f5d86be913c79600d0143d622244b0f2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Sys_popup,ess</sys_name>

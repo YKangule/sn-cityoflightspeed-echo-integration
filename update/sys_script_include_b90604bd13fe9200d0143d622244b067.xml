@@ -106,7 +106,7 @@ EchoRequest.prototype = {
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-15 17:29:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b90604bd13fe9200d0143d622244b067</sys_id>
         <sys_mod_count>65</sys_mod_count>
         <sys_name>EchoRequest</sys_name>

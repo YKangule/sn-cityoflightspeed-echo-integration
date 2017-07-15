@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-06 02:55:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6faaee86db5db200d1a9f1351d96196f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Intent</sys_name>

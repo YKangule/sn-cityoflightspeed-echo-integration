@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-06 06:17:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f309978edb9db200d1a9f1351d961927</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Session</sys_name>

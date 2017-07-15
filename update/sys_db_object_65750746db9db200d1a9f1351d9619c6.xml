@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2017-03-06 04:52:45</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>65750746db9db200d1a9f1351d9619c6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Phrases</sys_name>

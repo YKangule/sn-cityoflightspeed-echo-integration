@@ -84,7 +84,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>jc</sys_created_by>
         <sys_created_on>2016-04-26 22:11:29</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6a30355913839600d0143d622244b037</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Changes scheduled for today</sys_name>
